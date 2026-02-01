@@ -1,0 +1,16 @@
+#+title: Readme
+* 威借り -- Igari
+
+"Masks sometimes turn those who wear them into beasts."
+
+
+This game will be a belt-scrolling action game based on the story of
+“a snowy village where players strip fur from people wearing cursed pelts, freeing them from their grudges.”
+
+We are also considering allowing players to equip the stolen furs themselves to alter their characteristics and gain an advantage in gameplay.
+
+* Development
+This repository dependent "Git Large File System".
+
+Please run command =git lfs install= and =git lfs pull= after =git clone= .
+
